@@ -70,7 +70,7 @@ let myContinent = "North America";
 let myCountrysPopulation = 331900000;
 */
 
-let isIsland = false;
+const isIsland = false;
 let language = "English";
 
 console.log("My country is: " + myCountry);
