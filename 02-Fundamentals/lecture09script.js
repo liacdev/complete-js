@@ -39,8 +39,8 @@ LECTURE: Values and Variables
 assign their values according to your own country (population in millions)
 2. Log their values to the console
 */
-let myCountry = "USA";
-let myContinent = "North America";
+const myCountry = "USA";
+const myContinent = "North America";
 let myCountrysPopulation = 331900000;
 
 console.log("My country is: " + myCountry);
