@@ -2,7 +2,7 @@ Section  2 - JavaScript Fundamentals Part 1
 
 Lessons 5 - 30 Lesson Index
 
-Lesson 5 - Section Intro
+Lesson 5 - Section Intro <nl>
 Lesson 6 - Hello World!
 Lesson 7 - A Bried Introduction to JavaScript
 Lesson 8 - Linking a JavaScript File
