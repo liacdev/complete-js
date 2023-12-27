@@ -1,3 +1,5 @@
+'use strict'
+
 console.log('**********');
 console.log('Lecture 14: Operator Precedence');
 
