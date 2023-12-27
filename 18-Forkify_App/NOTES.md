@@ -28,10 +28,8 @@ Project planning:
 3. Flowchart:
 
 3.1 Search functionality: API search request
-![Alt text](<Screenshot from 2023-12-27 07-38-52.png>)
-
 3.2 Results with pagination
-
-
 3.3 Display recipe
 ...other features may be added later
+
+![Alt text](<Screenshot from 2023-12-27 07-44-06.png>)
