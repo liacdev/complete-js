@@ -4,3 +4,4 @@ Lessons 311 - 317 Lesson Index
 
 Lesson 311 - Intro   <br>
 Lesson 312 - Section Roadmap   <br>
+Lesson 313 - Simple Deployment with Netify   <br>
