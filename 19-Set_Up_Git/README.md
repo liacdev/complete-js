@@ -1,6 +1,6 @@
-Section  19 - Title
+Section  19 - Setting up Git and Deployment
 
-Lessons x - x Lesson Index
+Lessons 311 - 317 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 311 - Intro   <br>
+Lesson 312 - Section Roadmap   <br>
