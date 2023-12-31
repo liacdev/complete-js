@@ -1,6 +1,6 @@
-Section  8 - Title
+Section  8 - How JavaScript Works Behind-the-Scenes
 
-Lessons x - x Lesson Index
+Lessons 87 - 100 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 87 - Intro   <br>
+Lesson 88 - Section Roadmap   <br>

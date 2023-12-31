@@ -1,6 +1,6 @@
-Section  9 - Title
+Section  9 - Data Structures, Modern Operators, and Strings
 
-Lessons x - x Lesson Index
+Lessons 101 - 125 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 101 - Intro   <br>
+Lesson 102 - Section Roadmap   <br>

@@ -1,6 +1,6 @@
-Section  7 - Title
+Section  7 - JavaScript in the Browser: DOM and Events
 
-Lessons x - x Lesson Index
+Lessons 68 - 86 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 68 - Intro   <br>
+Lesson 69 - Section Roadmap   <br>
