@@ -4,7 +4,7 @@ Lessons 5 - 30 Lesson Index
 
 Lesson 5 - Section Intro   <br>
 Lesson 6 - Hello World!   <br>
-Lesson 7 - A Bried Introduction to JavaScript   <br>
+Lesson 7 - A Brief Introduction to JavaScript   <br>
 Lesson 8 - Linking a JavaScript File   <br>
 Lesson 9 - Values and Variables   <br>
 Lesson 10 - Practice Assignments   <br>
