@@ -1,7 +1,7 @@
 'use strict'
 
 console.log('**********');
-console.log('Coding Challenge 1');
+console.log('Lecture 16: Coding Challenge 1');
 
 /*
 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: BMI = mass / (height * height) (mass in kg and height in meters).
@@ -41,6 +41,6 @@ console.log("Mark's BMI is higher than John's BMI: " + markHigherBMI);
 
 
 console.log('   ');
-console.log('Coding Challenge 1 complete');
+console.log('End of Lecture 16');
 console.log('**********');
 console.log('   ');
