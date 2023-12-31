@@ -27,10 +27,11 @@ let massMark = 78;
 let heightMark = 1.69;
 let massJohn = 92;
 let heightJohn = 1.95;
-let BMIMark = massMark / (heightMark * heightMark);
-let BMIJohn = massJohn / (heightJohn * heightJohn);
-let markHigherBMI = (BMIMark > BMIJohn);
 
+const BMIMark = massMark / (heightMark * heightMark);
+const BMIJohn = massJohn / (heightJohn * heightJohn);
+const markHigherBMI = (BMIMark > BMIJohn);
+console.log("Test data 1");
 console.log("Mark's mass is: " + massMark + "kg");
 console.log("Mark's height is: " + heightMark + "m");
 console.log("John's mass is: " + massJohn + "kg");
@@ -38,6 +39,27 @@ console.log("John's height is: " + heightJohn + "m");
 console.log("Mark's BMI is: " + BMIMark);
 console.log("John's BMI is: " + BMIJohn);
 console.log("Mark's BMI is higher than John's BMI: " + markHigherBMI);
+console.log("   ");
+
+// Test data 2
+console.log("Test data 2");
+let massMark2 = 95;
+let heightMark2 = 1.88;
+let massJohn2 = 85;
+let heightJohn2 = 1.76;
+
+const BMIMark2 = massMark2 / (heightMark2 * heightMark2);
+const BMIJohn2 = massJohn2 / (heightJohn2 * heightJohn2);
+const markHigherBMI2 = (BMIMark2 > BMIJohn2);
+
+console.log("Mark's mass is: " + massMark2 + "kg");
+console.log("Mark's height is: " + heightMark2 + "m");
+console.log("John's mass is: " + massJohn2 + "kg");
+console.log("John's height is: " + heightJohn2 + "m");
+console.log("Mark's BMI is: " + BMIMark2);
+console.log("John's BMI is: " + BMIJohn2);
+console.log("Mark's BMI is higher than John's BMI: " + markHigherBMI2);
+console.log("   ");
 
 
 console.log('   ');
