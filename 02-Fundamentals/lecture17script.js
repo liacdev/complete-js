@@ -37,7 +37,7 @@ multiple lines";
 
 console.log(multiLine1);
 
-// Template literals can also be ued to create multi-line strings
+// Template literals can also be used to create multi-line strings
 const multiLine2 = `This is another
 string with
 multiple lines
