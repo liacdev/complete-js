@@ -1,4 +1,4 @@
-Section  18 - Forkify App
+Section  18 - Forkify App: Building a Modern Application
 
 Lessons 284 - 310 Lesson Index
 

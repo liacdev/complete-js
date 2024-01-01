@@ -1,6 +1,7 @@
-Section  12 - Title
+Section  12 - Numbers, Dates, Intl, and Timers
 
-Lessons x - x Lesson Index
+Lessons 168 - 181 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 168 - Intro   <br>
+Lesson 169 - Section Roadmap   <br>
+Lesson 170 - Converting and Checking Numbers   <br>

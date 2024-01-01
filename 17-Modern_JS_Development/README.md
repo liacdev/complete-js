@@ -1,6 +1,7 @@
-Section  17 - Title
+Section  17 - Modern JavaScript Development: Modules, Tooling, and Functional
 
-Lessons x - x Lesson Index
+Lessons 268 - 283 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 268 - Intro   <br>
+Lesson 269 - Section Roadmap   <br>
+Lesson 270 - An Overview of Modern JavaScript Deployment   <br>

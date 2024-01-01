@@ -1,6 +1,7 @@
-Section  13 - Title
+Section  13 - Advanced DOM and Events
 
-Lessons x - x Lesson Index
+Lessons 182 - 203 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 182 - Intro   <br>
+Lesson 183 - Section Roadmap   <br>
+Lesson 184 - Project: Bankist Website   <br>
