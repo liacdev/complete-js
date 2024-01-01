@@ -1,6 +1,7 @@
-Section  14 - Title
+Section  14 - Object Oriented Programming with JavaScript
 
-Lessons x - x Lesson Index
+Lessons 204 - 227 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 204 - Intro   <br>
+Lesson 205 - Section Roadmap   <br>
+Lesson 206 - What is Object Oriented Programming?   <br>

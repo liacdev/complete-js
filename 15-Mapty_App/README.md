@@ -1,6 +1,7 @@
-Section  15 - Title
+Section  15 - Mapty App: OOP, Geolocation, External Libraries, and More!
 
-Lessons x - x Lesson Index
+Lessons 228 - 243 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 228 - Intro   <br>
+Lesson 229 - Section Roadmap   <br>
+Lesson 230 - Project Overview   <br>

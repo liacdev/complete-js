@@ -1,6 +1,7 @@
-Section  16 - Title
+Section  16 - Asynchronous JavaScript: Promises, Async/Await, and Ajax
 
-Lessons x - x Lesson Index
+Lessons 244 - 267 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 244 - Intro   <br>
+Lesson 245 - Section Roadmap   <br>
+Lesson 246 - Asynchronous JavaScript, Ajax, and APIs   <br>
