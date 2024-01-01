@@ -1,6 +1,7 @@
-Section  10 - Title
+Section  10 - A Closer Look at Functions
 
-Lessons x - x Lesson Index
+Lessons 126 - 139 Lesson Index
 
-Lesson x - Intro   <br>
-Lesson x - Section Roadmap   <br>
+Lesson 126 - Intro   <br>
+Lesson 127 - Section Roadmap   <br>
+Lesson 128 - Default Parameters   <br>
