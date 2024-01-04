@@ -27,9 +27,9 @@ IMPORTANT: The ** operator is not supported in this editor. Please make sure to 
 console.log("Test data 1");
 
 if (BMIMark > BMIJohn) {
-    console.log(`Mark's BMI ${BMIMark} is higher than John's ${BMIJohn}`);
+    console.log(`Mark's BMI (${BMIMark}) is higher than John's (${BMIJohn})`);
 } else {
-    console.log(`John's ${BMIJohn} is higher than Mark's BMI ${BMIMark}`);
+    console.log(`John's (${BMIJohn}) is higher than Mark's BMI (${BMIMark})`);
 }
 console.log("   ");
 
@@ -39,9 +39,9 @@ console.log("Test data 2");
 console.log("   ");
 
 if (BMIMark2 > BMIJohn2) {
-    console.log(`Mark's BMI ${BMIMark2} is higher than John's ${BMIJohn2}`);
+    console.log(`Mark's BMI (${BMIMark2}) is higher than John's (${BMIJohn2})`);
 } else {
-    console.log(`John's ${BMIJohn2} is higher than Mark's BMI ${BMIMark2}`);
+    console.log(`John's (${BMIJohn2}) is higher than Mark's BMI (${BMIMark2})`);
 }
 console.log("   ");
 
