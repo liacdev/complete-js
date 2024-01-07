@@ -76,10 +76,6 @@ console.log(2 + 3 + 4 + '5');
 console.log('10' - '4' - '3' - 2 + '5');
 
 
-
-
-
-
 console.log('   ');
 console.log('End of Lecture 20');
 console.log('**********');
