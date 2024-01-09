@@ -4,3 +4,4 @@ Lessons 31 - 50 Lesson Index
 
 Lesson 31 - Intro   <br>
 Lesson 32 - Activating Strict Mode   <br>
+Lesson 33 - Functions   <br>
